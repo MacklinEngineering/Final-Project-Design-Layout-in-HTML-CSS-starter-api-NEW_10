@@ -18,3 +18,4 @@ See a live version here: https://communalbymacklinengineering.herokuapp.com/inde
 
 
 This app was built with all of Team Moses, (Asiah, Zahmir, Eric, Vanessa, Finesse, Nyah), the Resilient Coders 2020 Class, a number of Resilient Coders Mentors, socket.io, and a few github users. It also utilizes a website theme template from Colorlib. Welcome!
+ 
